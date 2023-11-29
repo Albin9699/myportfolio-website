@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Key Features
+
+* Implemented with latest Next js 13 features<br/>
+* Used Next js App router and Server Actions<br/>
+* Used Typescript and Tailwind Css<br/>
+* Animations with   Framer Motions<br/>
+* Light and Dark Mode<br/>
+* Responsive Design<br/>
+* Custom React Hooks<br/>
+
 ## Getting Started
 
 First, run the development server:
